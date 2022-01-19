@@ -1,0 +1,7 @@
+https://www.jupedsim.org/jpscore_inifile.html#agents
+
+
+https://www.jupedsim.org/jpscore_traffic.html
+
+
+https://github.com/JuPedSim/jpscore/tree/master/examples/jpscore/03_corner
