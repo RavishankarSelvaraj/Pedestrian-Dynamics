@@ -145,22 +145,22 @@
     <!--persons information and distribution -->
     <agents operational_model_id="3">
         <agents_distribution>
-            <group group_id="0" room_id="3" number="14" agent_parameter_id="2" x_min="11.9" x_max="19" y_min="22.8" y_max="36.5" router_id="1" subroom_id="0" />
-            <group group_id="1" room_id="6" number="3" agent_parameter_id="2" x_min="37.1" x_max="52" y_min="26.18" y_max="28" router_id="1" subroom_id="0" />
-            <group group_id="2" room_id="3" number="14" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="3" room_id="8" number="6" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="4" room_id="9" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="5" room_id="2" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="6" room_id="1" number="4" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="7" room_id="7" number="5" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="8" room_id="4" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
-            <group group_id="9" room_id="0" number="10" agent_parameter_id="2" x_min="12" x_max="29" y_min="12" y_max="17.5" router_id="1" subroom_id="0" />
-            <group group_id="10" room_id="0" number="10" agent_parameter_id="2" x_min="27.26" x_max="36.42" y_min="12" y_max="25" router_id="1" subroom_id="0" />
-            <group group_id="11" room_id="0" number="10" agent_parameter_id="2" x_min="27.26" x_max="36.42" y_min="25" y_max="37" router_id="1" subroom_id="0" />
-            <group group_id="12" room_id="6" number="2" agent_parameter_id="2" x_min="37.1" x_max="51.03" y_min="20.9" y_max="25.60" router_id="1" subroom_id="0" />
-            <group group_id="13" room_id="6" number="9" agent_parameter_id="2" x_min="37.1" x_max="48.40" y_min="28" y_max="37.15" router_id="1" subroom_id="0" />
-            <group group_id="14" room_id="6" number="5" agent_parameter_id="2" x_min="48.40" x_max="55.17" y_min="28" y_max="37.15" router_id="1" subroom_id="0" />
-            <group group_id="15" room_id="6" number="2" agent_parameter_id="2" x_min="51.53" x_max="55.17" y_min="20.83" y_max="37.15" router_id="1" subroom_id="0" />
+            <group group_id="0" room_id="3" goal_id="7" number="14" agent_parameter_id="2" x_min="11.9" x_max="19" y_min="22.8" y_max="36.5" router_id="1" subroom_id="0" />
+            <group group_id="1" room_id="6" goal_id="5" number="3" agent_parameter_id="2" x_min="37.1" x_max="52" y_min="26.18" y_max="28" router_id="1" subroom_id="0" />
+            <group group_id="2" room_id="3" goal_id="5" number="14" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="3" room_id="8" goal_id="0" number="6" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="4" room_id="9" goal_id="5" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="5" room_id="2" goal_id="0" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="6" room_id="1" goal_id="1" number="4" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="7" room_id="7" goal_id="5" number="5" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="8" room_id="4" goal_id="2" number="2" agent_parameter_id="2" router_id="1" subroom_id="0" />
+            <group group_id="9" room_id="0" goal_id="0" number="10" agent_parameter_id="2" x_min="12" x_max="29" y_min="12" y_max="17.5" router_id="1" subroom_id="0" />
+            <group group_id="10" room_id="0" goal_id="0" number="10" agent_parameter_id="2" x_min="27.26" x_max="36.42" y_min="12" y_max="25" router_id="1" subroom_id="0" />
+            <group group_id="11" room_id="0" goal_id="5" number="10" agent_parameter_id="2" x_min="27.26" x_max="36.42" y_min="25" y_max="37" router_id="1" subroom_id="0" />
+            <group group_id="12" room_id="6" goal_id="5" number="2" agent_parameter_id="2" x_min="37.1" x_max="51.03" y_min="20.9" y_max="25.60" router_id="1" subroom_id="0" />
+            <group group_id="13" room_id="6" goal_id="5" number="9" agent_parameter_id="2" x_min="37.1" x_max="48.40" y_min="28" y_max="37.15" router_id="1" subroom_id="0" />
+            <group group_id="14" room_id="6" goal_id="5" number="5" agent_parameter_id="2" x_min="48.40" x_max="55.17" y_min="28" y_max="37.15" router_id="1" subroom_id="0" />
+            <group group_id="15" room_id="6" goal_id="5" number="2" agent_parameter_id="2" x_min="51.53" x_max="55.17" y_min="20.83" y_max="37.15" router_id="1" subroom_id="0" />
         </agents_distribution>
     </agents>
     <!-- These parameters may be overwritten -->

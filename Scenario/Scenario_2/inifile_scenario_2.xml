@@ -167,7 +167,7 @@
  
             <group group_id="3"  room_id="8"  number ="30" agent_parameter_id="2"  router_id="1" subroom_id="0" />
 
-            <group group_id="4"  room_id="9"  number ="10"  agent_parameter_id="2"  router_id="1" subroom_id="0" />
+            <group group_id="4"  room_id="9"  number ="10" agent_parameter_id="2"  router_id="1" subroom_id="0" />
 
             <group group_id="5"  room_id="2"  number ="10" agent_parameter_id="2"  router_id="1" subroom_id="0" />
 
@@ -175,7 +175,7 @@
 
             <group group_id="7"  room_id="7"  number ="25" agent_parameter_id="2"  router_id="1" subroom_id="0" />
 
-            <group group_id="8"  room_id="4"  number ="10"  agent_parameter_id="2"  router_id="1" subroom_id="0" />
+            <group group_id="8"  room_id="4"  number ="10" agent_parameter_id="2"  router_id="1" subroom_id="0" />
 
             <group group_id="9"  room_id="0"  number ="50" agent_parameter_id="2"  x_min="12" x_max="29" y_min="12" y_max="17.5" router_id="1" subroom_id="0" />
 
